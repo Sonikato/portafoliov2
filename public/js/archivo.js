@@ -1,0 +1,3 @@
+/*
+todo tu codigo js de cliente
+*/
